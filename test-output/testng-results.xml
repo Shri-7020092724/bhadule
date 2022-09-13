@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T16:15:00 IST" name="Default suite" finished-at="2022-07-31T16:15:00 IST" duration-ms="80">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T16:15:00 IST" name="Default test" finished-at="2022-07-31T16:15:00 IST" duration-ms="80">
+      <class name="testNGpackage.assettiion">
+        <test-method signature="shri()[pri:0, instance:testNGpackage.assettiion@49d904ec]" started-at="2022-07-31T16:15:00 IST" name="shri" finished-at="2022-07-31T16:15:00 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shri -->
+      </class> <!-- testNGpackage.assettiion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
