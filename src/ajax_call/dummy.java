@@ -22,6 +22,8 @@ public class dummy {
 		fboption.click();
 		
 		System.out.println("successfully handle the ajax calls");
+		
+		System.out.println("this is modified class");
 	
 	}
 
