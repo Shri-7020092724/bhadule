@@ -24,6 +24,7 @@ public class dummy {
 		System.out.println("successfully handle the ajax calls");
 		
 		System.out.println("this is modified class");
+		System.out.println("sthis is new modification");
 	
 	}
 
